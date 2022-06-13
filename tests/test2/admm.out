@@ -1,0 +1,738 @@
+===============================================
+ lambda =  0.100E-05
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.118E-02
+ |             (dual) = 0.175E-03
+ | x >= 0      (prim) = 0.828E-02
+ |             (dual) = 0.387E-03
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.130E-02
+ | ||   x'   ||_1     = 0.179E+00
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.800E+01
+ | for x >= 0         = 0.160E+02
+ |
+===============================================
+ lambda =  0.158E-05
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.406E-03
+ |             (dual) = 0.993E-03
+ | x >= 0      (prim) = 0.610E-02
+ |             (dual) = 0.192E-02
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.162E-02
+ | ||   x'   ||_1     = 0.178E+00
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.160E+02
+ | for x >= 0         = 0.320E+02
+ |
+===============================================
+ lambda =  0.251E-05
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.276E-03
+ |             (dual) = 0.313E-03
+ | x >= 0      (prim) = 0.643E-02
+ |             (dual) = 0.292E-03
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.156E-02
+ | ||   x'   ||_1     = 0.174E+00
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.160E+02
+ | for x >= 0         = 0.160E+02
+ |
+===============================================
+ lambda =  0.398E-05
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.741E-03
+ |             (dual) = 0.219E-03
+ | x >= 0      (prim) = 0.490E-02
+ |             (dual) = 0.103E-02
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.186E-02
+ | ||   x'   ||_1     = 0.165E+00
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.800E+01
+ | for x >= 0         = 0.320E+02
+ |
+===============================================
+ lambda =  0.631E-05
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.112E-02
+ |             (dual) = 0.253E-03
+ | x >= 0      (prim) = 0.534E-02
+ |             (dual) = 0.500E-03
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.178E-02
+ | ||   x'   ||_1     = 0.162E+00
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.800E+01
+ | for x >= 0         = 0.160E+02
+ |
+===============================================
+ lambda =  0.100E-04
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.961E-03
+ |             (dual) = 0.132E-02
+ | x >= 0      (prim) = 0.311E-02
+ |             (dual) = 0.540E-02
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.238E-02
+ | ||   x'   ||_1     = 0.149E+00
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.800E+01
+ | for x >= 0         = 0.320E+02
+ |
+===============================================
+ lambda =  0.158E-04
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.102E-02
+ |             (dual) = 0.123E-03
+ | x >= 0      (prim) = 0.295E-02
+ |             (dual) = 0.247E-03
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.254E-02
+ | ||   x'   ||_1     = 0.131E+00
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.800E+01
+ | for x >= 0         = 0.160E+02
+ |
+===============================================
+ lambda =  0.251E-04
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.635E-03
+ |             (dual) = 0.203E-03
+ | x >= 0      (prim) = 0.223E-02
+ |             (dual) = 0.410E-03
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.285E-02
+ | ||   x'   ||_1     = 0.130E+00
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.160E+02
+ | for x >= 0         = 0.320E+02
+ |
+===============================================
+ lambda =  0.398E-04
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.642E-03
+ |             (dual) = 0.584E-04
+ | x >= 0      (prim) = 0.225E-02
+ |             (dual) = 0.115E-03
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.294E-02
+ | ||   x'   ||_1     = 0.120E+00
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.800E+01
+ | for x >= 0         = 0.160E+02
+ |
+===============================================
+ lambda =  0.631E-04
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.431E-03
+ |             (dual) = 0.834E-04
+ | x >= 0      (prim) = 0.219E-02
+ |             (dual) = 0.225E-03
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.316E-02
+ | ||   x'   ||_1     = 0.110E+00
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.160E+02
+ | for x >= 0         = 0.320E+02
+ |
+===============================================
+ lambda =  0.100E-03
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.312E-03
+ |             (dual) = 0.890E-04
+ | x >= 0      (prim) = 0.207E-02
+ |             (dual) = 0.177E-03
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.341E-02
+ | ||   x'   ||_1     = 0.106E+00
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.160E+02
+ | for x >= 0         = 0.320E+02
+ |
+===============================================
+ lambda =  0.158E-03
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.236E-03
+ |             (dual) = 0.708E-03
+ | x >= 0      (prim) = 0.200E-02
+ |             (dual) = 0.140E-02
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.364E-02
+ | ||   x'   ||_1     = 0.103E+00
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.160E+02
+ | for x >= 0         = 0.320E+02
+ |
+===============================================
+ lambda =  0.251E-03
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.429E-03
+ |             (dual) = 0.275E-04
+ | x >= 0      (prim) = 0.195E-02
+ |             (dual) = 0.426E-04
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.389E-02
+ | ||   x'   ||_1     = 0.101E+00
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.160E+02
+ | for x >= 0         = 0.320E+02
+ |
+===============================================
+ lambda =  0.398E-03
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.501E-03
+ |             (dual) = 0.219E-04
+ | x >= 0      (prim) = 0.192E-02
+ |             (dual) = 0.430E-04
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.417E-02
+ | ||   x'   ||_1     = 0.979E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.160E+02
+ | for x >= 0         = 0.320E+02
+ |
+===============================================
+ lambda =  0.631E-03
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.286E-03
+ |             (dual) = 0.815E-04
+ | x >= 0      (prim) = 0.184E-02
+ |             (dual) = 0.806E-04
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.475E-02
+ | ||   x'   ||_1     = 0.955E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.320E+02
+ | for x >= 0         = 0.320E+02
+ |
+===============================================
+ lambda =  0.100E-02
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.471E-03
+ |             (dual) = 0.599E-03
+ | x >= 0      (prim) = 0.184E-02
+ |             (dual) = 0.121E-02
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.522E-02
+ | ||   x'   ||_1     = 0.923E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.800E+01
+ | for x >= 0         = 0.160E+02
+ |
+===============================================
+ lambda =  0.158E-02
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.384E-03
+ |             (dual) = 0.112E-02
+ | x >= 0      (prim) = 0.141E-02
+ |             (dual) = 0.223E-02
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.776E-02
+ | ||   x'   ||_1     = 0.954E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.160E+02
+ | for x >= 0         = 0.320E+02
+ |
+===============================================
+ lambda =  0.251E-02
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.377E-03
+ |             (dual) = 0.249E-03
+ | x >= 0      (prim) = 0.121E-02
+ |             (dual) = 0.497E-03
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.106E-01
+ | ||   x'   ||_1     = 0.883E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.160E+02
+ | for x >= 0         = 0.320E+02
+ |
+===============================================
+ lambda =  0.398E-02
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.436E-03
+ |             (dual) = 0.778E-03
+ | x >= 0      (prim) = 0.960E-03
+ |             (dual) = 0.161E-02
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.131E-01
+ | ||   x'   ||_1     = 0.885E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.160E+02
+ | for x >= 0         = 0.320E+02
+ |
+===============================================
+ lambda =  0.631E-02
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.399E-03
+ |             (dual) = 0.364E-02
+ | x >= 0      (prim) = 0.825E-03
+ |             (dual) = 0.374E-02
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.148E-01
+ | ||   x'   ||_1     = 0.872E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.160E+02
+ | for x >= 0         = 0.320E+02
+ |
+===============================================
+ lambda =  0.100E-01
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.280E-03
+ |             (dual) = 0.194E-02
+ | x >= 0      (prim) = 0.637E-03
+ |             (dual) = 0.396E-02
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.175E-01
+ | ||   x'   ||_1     = 0.856E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.160E+02
+ | for x >= 0         = 0.320E+02
+ |
+===============================================
+ lambda =  0.158E-01
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.217E-03
+ |             (dual) = 0.185E-03
+ | x >= 0      (prim) = 0.347E-03
+ |             (dual) = 0.381E-03
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.215E-01
+ | ||   x'   ||_1     = 0.858E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.160E+02
+ | for x >= 0         = 0.320E+02
+ |
+===============================================
+ lambda =  0.251E-01
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.144E-03
+ |             (dual) = 0.397E-04
+ | x >= 0      (prim) = 0.239E-03
+ |             (dual) = 0.110E-02
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.243E-01
+ | ||   x'   ||_1     = 0.841E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.160E+02
+ | for x >= 0         = 0.320E+02
+ |
+===============================================
+ lambda =  0.398E-01
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.150E-03
+ |             (dual) = 0.412E-04
+ | x >= 0      (prim) = 0.217E-03
+ |             (dual) = 0.827E-04
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.267E-01
+ | ||   x'   ||_1     = 0.829E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.160E+02
+ | for x >= 0         = 0.320E+02
+ |
+===============================================
+ lambda =  0.631E-01
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.134E-03
+ |             (dual) = 0.864E-04
+ | x >= 0      (prim) = 0.207E-03
+ |             (dual) = 0.174E-03
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.293E-01
+ | ||   x'   ||_1     = 0.816E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.160E+02
+ | for x >= 0         = 0.320E+02
+ |
+===============================================
+ lambda =  0.100E+00
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.650E-04
+ |             (dual) = 0.303E-03
+ | x >= 0      (prim) = 0.213E-03
+ |             (dual) = 0.302E-03
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.338E-01
+ | ||   x'   ||_1     = 0.797E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.320E+02
+ | for x >= 0         = 0.320E+02
+ |
+===============================================
+ lambda =  0.158E+00
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.575E-04
+ |             (dual) = 0.150E-03
+ | x >= 0      (prim) = 0.213E-03
+ |             (dual) = 0.148E-03
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.414E-01
+ | ||   x'   ||_1     = 0.774E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.320E+02
+ | for x >= 0         = 0.320E+02
+ |
+===============================================
+ lambda =  0.251E+00
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.534E-04
+ |             (dual) = 0.117E-04
+ | x >= 0      (prim) = 0.165E-03
+ |             (dual) = 0.947E-05
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.491E-01
+ | ||   x'   ||_1     = 0.758E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.320E+02
+ | for x >= 0         = 0.320E+02
+ |
+===============================================
+ lambda =  0.398E+00
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.345E-04
+ |             (dual) = 0.227E-04
+ | x >= 0      (prim) = 0.194E-03
+ |             (dual) = 0.106E-04
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.627E-01
+ | ||   x'   ||_1     = 0.731E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.320E+02
+ | for x >= 0         = 0.160E+02
+ |
+===============================================
+ lambda =  0.631E+00
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.666E-04
+ |             (dual) = 0.119E-04
+ | x >= 0      (prim) = 0.224E-03
+ |             (dual) = 0.170E-03
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.825E-01
+ | ||   x'   ||_1     = 0.700E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.320E+02
+ | for x >= 0         = 0.160E+02
+ |
+===============================================
+ lambda =  0.100E+01
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.113E-03
+ |             (dual) = 0.683E-05
+ | x >= 0      (prim) = 0.790E-04
+ |             (dual) = 0.383E-04
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.107E+00
+ | ||   x'   ||_1     = 0.676E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.160E+02
+ | for x >= 0         = 0.320E+02
+ |
+===============================================
+ lambda =  0.158E+01
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.885E-04
+ |             (dual) = 0.494E-05
+ | x >= 0      (prim) = 0.105E-03
+ |             (dual) = 0.139E-03
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.151E+00
+ | ||   x'   ||_1     = 0.633E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.160E+02
+ | for x >= 0         = 0.160E+02
+ |
+===============================================
+ lambda =  0.251E+01
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.882E-04
+ |             (dual) = 0.106E-04
+ | x >= 0      (prim) = 0.111E-03
+ |             (dual) = 0.105E-04
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.223E+00
+ | ||   x'   ||_1     = 0.565E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.160E+02
+ | for x >= 0         = 0.160E+02
+ |
+===============================================
+ lambda =  0.398E+01
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.677E-04
+ |             (dual) = 0.136E-04
+ | x >= 0      (prim) = 0.114E-03
+ |             (dual) = 0.167E-04
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.278E+00
+ | ||   x'   ||_1     = 0.519E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.160E+02
+ | for x >= 0         = 0.160E+02
+ |
+===============================================
+ lambda =  0.631E+01
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.894E-05
+ |             (dual) = 0.321E-06
+ | x >= 0      (prim) = 0.188E-04
+ |             (dual) = 0.425E-06
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.346E+00
+ | ||   x'   ||_1     = 0.477E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.800E+01
+ | for x >= 0         = 0.800E+01
+ |
+===============================================
+ lambda =  0.100E+02
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.210E-04
+ |             (dual) = 0.907E-05
+ | x >= 0      (prim) = 0.712E-04
+ |             (dual) = 0.247E-04
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.527E+00
+ | ||   x'   ||_1     = 0.381E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.800E+01
+ | for x >= 0         = 0.800E+01
+ |
+===============================================
+ lambda =  0.158E+02
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.826E-05
+ |             (dual) = 0.217E-05
+ | x >= 0      (prim) = 0.356E-04
+ |             (dual) = 0.209E-05
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.660E+00
+ | ||   x'   ||_1     = 0.312E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.160E+02
+ | for x >= 0         = 0.160E+02
+ |
+===============================================
+ lambda =  0.251E+02
+ not converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.163E-04
+ |             (dual) = 0.276E-05
+ | x >= 0      (prim) = 0.191E-04
+ |             (dual) = 0.175E-04
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.660E+00
+ | ||   x'   ||_1     = 0.312E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.800E+01
+ | for x >= 0         = 0.160E+02
+ |
+===============================================
+ lambda =  0.398E+02
+ converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.582E-05
+ |             (dual) = 0.106E-05
+ | x >= 0      (prim) = 0.928E-05
+ |             (dual) = 0.213E-05
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.660E+00
+ | ||   x'   ||_1     = 0.311E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.800E+01
+ | for x >= 0         = 0.160E+02
+ |
+===============================================
+ lambda =  0.631E+02
+ converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.583E-05
+ |             (dual) = 0.162E-05
+ | x >= 0      (prim) = 0.376E-04
+ |             (dual) = 0.752E-06
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.660E+00
+ | ||   x'   ||_1     = 0.311E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.800E+01
+ | for x >= 0         = 0.400E+01
+ |
+===============================================
+ lambda =  0.100E+03
+ converged
+ |
+ |-- Residual Errors
+ | L1 Regular. (prim) = 0.290E-05
+ |             (dual) = 0.544E-08
+ | x >= 0      (prim) = 0.447E-04
+ |             (dual) = 0.633E-09
+ |
+ |-- Target Quantities
+ | || y'-Sx' ||_2     = 0.659E+00
+ | ||   x'   ||_1     = 0.311E-01
+ |
+ |-- Penalty Parameters
+ | for L1 Regular.    = 0.500E+00
+ | for x >= 0         = 0.625E-01
+ |

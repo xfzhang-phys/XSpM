@@ -1,0 +1,16 @@
+&SPM_PARAMS
+  statistics = 'F'
+  ntau = 4000
+  beta = 100.
+  nw = 1000
+  wmin = -4.
+  wmax = 4.
+  svd_cut = 1.0D-10
+  admm_auto_penalty = .FALSE.
+  admm_maxiter = 10000
+  admm_penalty = 1.
+  admm_tol = 1.0D-6
+  loglam_min = -6.
+  loglam_max = 2.
+  loglam_step = 0.2
+/
